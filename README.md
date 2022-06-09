@@ -6,7 +6,7 @@ Trabalho de grupo de programação e algoritmos 2
  
  K-Pop Hits Through The Year 2020 & 2021!
  
- [Uploading giphy-17.gif…]()
+![giphy-17](https://user-images.githubusercontent.com/104781648/172865193-5ff263e7-d624-4c7f-a01e-d7068231b730.gif)
 
 
  ![Aespa_-_Savage](https://user-images.githubusercontent.com/104781648/172174382-c09c8061-5fbf-4efd-b537-ce211641fcee.jpeg)
