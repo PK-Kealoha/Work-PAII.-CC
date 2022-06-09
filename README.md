@@ -4,7 +4,10 @@ Trabalho de grupo de programação e algoritmos 2
  Trabalho de Grupo de Programação e Algoritmos 2
  Membros- Claúdia Teixeira, Cristiana Costa e Inês Costa 
  
- K-Pop Hits Through The Year 2020 & 2021
+ K-Pop Hits Through The Year 2020 & 2021!
+ 
+ [Uploading giphy-17.gif…]()
+
 
  ![Aespa_-_Savage](https://user-images.githubusercontent.com/104781648/172174382-c09c8061-5fbf-4efd-b537-ce211641fcee.jpeg)
 
