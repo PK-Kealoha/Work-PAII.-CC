@@ -9,8 +9,6 @@ Trabalho de grupo de programação e algoritmos 2
 ![giphy-17](https://user-images.githubusercontent.com/104781648/172865193-5ff263e7-d624-4c7f-a01e-d7068231b730.gif)
 
 
- ![Aespa_-_Savage](https://user-images.githubusercontent.com/104781648/172174382-c09c8061-5fbf-4efd-b537-ce211641fcee.jpeg)
-
  https://www.kaggle.com/datasets/sberj127/kpop-hits-through-the-years?resource=download&select=KPopHits2021.csv
  
  Dicionário: 
