@@ -21,7 +21,7 @@ Trabalho de grupo de programação e algoritmos 2
  
 danceability: How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
 
-energy:Perceptual measure of intensity and activity based on its dynamic range, perceived loudness, timbre, onset rate, and general entropy. The values range from 0.0 to 1.0.
+energy: Perceptual measure of intensity and activity based on its dynamic range, perceived loudness, timbre, onset rate, and general entropy. The values range from 0.0 to 1.0.
 
 key: Key the track is in. Integers map to pitches using standard Pitch Class notation.
 
@@ -35,33 +35,14 @@ acousticness: Confidence measure of whether the track is acoustic. Values range 
 
 valence:	How positive the mood of the song is
  
-tempo:
+tempo: 
 
-duration_ms:
+duration_ms: duration of the song in milliseconds
 
-time_signature:
+time_signature: 
 
-
-
-
+duration_min: duration of the song in minutes
 
 
-title	Song's Title
-artist	Song's artist
-genre	Genre of song
-year released	Year the song was released
-added	Day song was added to Spotify's Top Hits playlist
-bpm	Beats Per Minute - The tempo of the song
-nrgy	Energy - How energetic the song is
-dnce	Danceability - How easy it is to dance to the song
-dB	Decibel - How loud the song is
-live	How likely the song is a live recording
-val	How positive the mood of the song is
-dur	Duration of the song
-acous	How acoustic the song is
-spch	The more the song is focused on spoken word
-pop	Popularity of the song (not a ranking)
-top year	Year the song was a top hit
-artist type	Tells if artist is solo, duo, trio, or a band
 
 
