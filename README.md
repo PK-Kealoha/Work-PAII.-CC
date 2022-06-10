@@ -65,7 +65,3 @@ top year	Year the song was a top hit
 artist type	Tells if artist is solo, duo, trio, or a band
 
 
-
-About Dataset
-What is the data?
-The datasets contain the top songs from the said era or year accordingly (as presented in the name of each dataset). Note that only the KPopHits90s dataset represents an era (1989-2001). Although there is a lack of easily available and reliable sources to show the actual K-Pop hits per year during the 90s, this era was still included as this time period was when the first generation of K-Pop stars appeared.
