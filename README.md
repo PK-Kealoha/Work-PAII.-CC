@@ -35,14 +35,10 @@ acousticness: Confidence measure of whether the track is acoustic. Values range 
 
 valence:	How positive the mood of the song is
  
-tempo: 
+tempo:  tempo is how fast or slow a piece of music is performed
 
 duration_ms: duration of the song in milliseconds
 
-time_signature: 
+time_signature: The time signature  is a notational convention used in Western musical notation to specify how many beats (pulses) are contained in each measure (bar), and which note value is equivalent to a beat.
 
 duration_min: duration of the song in minutes
-
-
-
-
